@@ -1,6 +1,6 @@
 # RAN-Translation
 
-Source files, database and scripts to find ORFs associated with RAN translation in human genome.
+Source files, database and scripts for finding ORFs associated with RAN translation in human genome.
 
 
 
